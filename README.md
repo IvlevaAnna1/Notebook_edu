@@ -9,4 +9,4 @@
 * <a href="https://github.com/4vel/python-intro/blob/main/Lesson2/notebooks/6.decorator.ipynb">Декораторы</a>
 * <a href="https://github.com/4vel/python-intro/blob/main/Lesson2/notebooks/7.generator_iterator.ipynb">Итераторы и генераторы</a>
 * <a href="https://github.com/4vel/python-intro/blob/main/Lesson2/notebooks/8.sql.ipynb">Sql и SQLite в python</a>
-* <a href="https://github.com/4vel/python-intro/blob/main/Lesson5/notebooks/9.numpy.ipynb">Numpy</a>
+* <a href="https://github.com/4vel/python-intro/blob/main/Lesson2/notebooks/9.numpy.ipynb">Numpy</a>
